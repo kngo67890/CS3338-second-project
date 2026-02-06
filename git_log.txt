@@ -1,0 +1,38 @@
+commit 3b846d2da7d384200a63cd8421ba17e5aaac07df
+Author: kngo67890 <kngo67890@gmail.com>
+Date:   Thu Feb 5 22:59:53 2026 -0800
+
+    Add favorite movie to index-fix
+
+commit 7637cb7c756486a51d4eb65aa2234dcbd2974f95
+Author: kngo67890 <kngo67890@gmail.com>
+Date:   Thu Feb 5 22:56:35 2026 -0800
+
+    Add favorite food to main
+
+commit d395a08285abeaf570e3b92714776e928c81531f
+Author: kngo67890 <kngo67890@gmail.com>
+Date:   Thu Feb 5 22:33:20 2026 -0800
+
+    Add README with project description
+
+commit bb3ade3fb06225c0936ce887cc6a67c0055abd6e
+Merge: 1d2bfc0 e6be979
+Author: kngo67890 <kngo67890@gmail.com>
+Date:   Thu Feb 5 22:19:45 2026 -0800
+
+    Merge pull request #1 from kngo67890/kngo67890-patch-1
+    
+    Update personal information in index.html
+
+commit e6be97901306d448bc88610b34f32c9fc5994ecf
+Author: kngo67890 <kngo67890@gmail.com>
+Date:   Thu Feb 5 22:19:08 2026 -0800
+
+    Update personal information in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
